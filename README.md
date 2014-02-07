@@ -1,3 +1,3 @@
 # Meteor gallery
 ---  
-1. worldclock: China time and PST time
+1. [worldclock](http://worldclock.meteor.com/): China time and PST time
