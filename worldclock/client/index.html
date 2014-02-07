@@ -1,0 +1,15 @@
+<head>
+  <title>World Clock by Long(forallandiyou@gmail.com)</title>
+</head>
+
+<body>
+  {{> layout }}
+</body>
+
+<template name="layout">
+  <div class="clocks">
+    {{#each contries}}
+      {{> d3_clock }}
+    {{/each}}
+  </div>
+</template>
